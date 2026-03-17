@@ -4,7 +4,7 @@ This project reads heart rate using the MAX30102 sensor and displays BPM on a 16
 
 ## Components
 - MAX30102 sensor
-- NodeMCU / Arduino
+- Arduino Nano
 - 16x2 I2C LCD
 
 ## Features
